@@ -1,7 +1,7 @@
 import os
 import csv
 
-csvpath = os.path.join("." , "budget_data.csv")
+csvpath = os.path.join(".." , "budget_data.csv")
 # define all variables
 profit_sum = 0
 months = 0
