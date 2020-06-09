@@ -1,7 +1,7 @@
 import os
 import csv
-csvpath = os.path.join(".", "election_data.csv")
-output_path = os.path.join(".","output.csv")
+csvpath = os.path.join("..", "election_data.csv")
+output_path = os.path.join("..","output.csv")
 
 # Define all variables
 vote_count = 0
